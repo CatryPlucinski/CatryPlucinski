@@ -1,0 +1,2 @@
+- 👋 Olá, me chamo Catry Plucinski
+- Sou professora de Pensamento Computacional
